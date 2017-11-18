@@ -1,2 +1,2 @@
-# os
+# Operational System
 Operational system stuff
